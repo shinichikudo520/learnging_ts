@@ -1,0 +1,1 @@
+$('#foo').html('this is 05_jqtest project!')
